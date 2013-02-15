@@ -1,0 +1,14 @@
+#SMTP plugin for Croogo 1.4+
+
+Allow send email from Croogo via smtp
+
+## Requirements
+ * Croogo 1.4+
+
+## Installation
+ * download and copy this plugin to app/Plugin/EmailSmtp
+ * activate plugin in administration Extesions -> Plugins
+
+## Settings
+
+Set base params in Admin -> Extensions -> EmailSmtp -> Settings

@@ -1,0 +1,15 @@
+{
+	"name": "EmailSmtp",
+	"description": "Send croogo emails via Smtp",
+
+	"author": "Juraj Jancuska",
+	"authorEmail": "jjancuska@gmail.com",
+	"authorUrl": "",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}
